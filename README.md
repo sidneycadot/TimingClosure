@@ -69,4 +69,4 @@ Constraining Designs for Synthesis and Timing Analysis: A Practical Guide to Syn
 More info
 =========
 
-![Basic timing](image/timing.png)
+![Basic timing](images/timing.png)
